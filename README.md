@@ -56,6 +56,6 @@ Revenue Comparison Between Occasions: Compare revenue generated across different
 Product Popularity by Occasion: Identify which products are most popular during different occasions.
 
 📂 Files Included
-Dashboard Image : - <a heref="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png">Dashboard Image
+Dashboard Image : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png">Dashboard Image
 
-Power BI (.pbix) file : - <a heref="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb">Dataset
+Power BI (.pbix) file : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb">Dataset
