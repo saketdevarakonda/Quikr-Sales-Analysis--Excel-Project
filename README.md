@@ -46,10 +46,3 @@ To showcase ability to derive actionable insights from raw data.
 Dashboard Image : https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png
 
 Power BI (.pbix) file : https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb
-
-🚀 Future Improvements
-Incorporating year-on-year (YoY) comparison.
-
-Adding predictive analytics on future sales.
-
-Enhancing UI/UX with additional themes and tooltips.
