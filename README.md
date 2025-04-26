@@ -1,10 +1,10 @@
 ## Quikr-Sales-Analysis--Excel-Project
-#Project Objective 
+# Project Objective 
 This project showcases a Sales Analysis Dashboard created using Power BI, built to analyze 1000+ sales records for a gifting company (Quickr). The dashboard provides actionable insights into customer behavior, top-performing products, revenue trends, and delivery performance.
 ## Dataset Used
 • - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb">Quickr Sales Analysis Dataset
 
-##❓Problem Statement: Quickr Sales Analysis
+## ❓Problem Statement: Quickr Sales Analysis
 
 • Total Revenue: Identify the overall revenue.
 
@@ -26,7 +26,7 @@ This project showcases a Sales Analysis Dashboard created using Power BI, built 
 
 • Product Popularity by Occasion: Identify which products are most popular during different occasions.
 
-##📊 Process Followed for Quickr Sales Analysis Dashboard
+## 📊 Process Followed for Quickr Sales Analysis Dashboard
 • Data Cleaning & Preparation: Removed duplicates, handled missing values, standardized date formats, and created new columns like Order Month and Delivery Month.
 
 • Data Modeling: Built relationships and created DAX measures for Total Revenue, Average Delivery Time, Customer Spending, Monthly Revenue, and Revenue by Occasion and Category.
@@ -38,7 +38,7 @@ This project showcases a Sales Analysis Dashboard created using Power BI, built 
 • Finalization & Publishing: Enhanced UI/UX, applied consistent formatting, validated calculations, and exported the dashboard for GitHub and LinkedIn portfolio presentation.
 
 
-##📈 Key Features
+## 📈 Key Features
 • Total Revenue: ₹35,20,984
 
 • Total Orders: 1000
@@ -53,7 +53,7 @@ This project showcases a Sales Analysis Dashboard created using Power BI, built 
 
 • Dynamic Filtering: Slicers for Order Date, Delivery Date, and Occasion
 
-##🛠 Tools & Techniques Used
+## 🛠 Tools & Techniques Used
 • Power BI Desktop 
 
 • DAX Functions (for calculated columns and measures)
@@ -64,14 +64,14 @@ This project showcases a Sales Analysis Dashboard created using Power BI, built 
 
 • Data Cleaning and Transformation
 
-##🎯 Purpose
+## 🎯 Purpose
 • To practice real-world dashboard design using Power BI.
 
 • To demonstrate skills in Data Analysis, Data Visualization, and Business Intelligence.
 
 • To showcase ability to derive actionable insights from raw data.
 
-##📂 Files Included
+## 📂 Files Included
 Dashboard Image : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png">Dashboard Image
 
 Power BI (.pbix) file : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb">Dataset
