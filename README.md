@@ -16,7 +16,7 @@ Top Insights: Top 5 Products, Top 10 Cities by Orders
 Dynamic Filtering: Slicers for Order Date, Delivery Date, and Occasion
 
 #🛠 Tools & Techniques Used
-Power BI Desktop
+Power BI Desktop 
 
 DAX Functions (for calculated columns and measures)
 
@@ -45,7 +45,7 @@ To showcase ability to derive actionable insights from raw data.
 📂 Files Included
 Dashboard Image : https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png
 
-Power BI (.pbix) file (optional, if you upload it)
+Power BI (.pbix) file : https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb
 
 🚀 Future Improvements
 Incorporating year-on-year (YoY) comparison.
