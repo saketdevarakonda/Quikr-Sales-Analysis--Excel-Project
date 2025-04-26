@@ -26,15 +26,6 @@ Interactive Slicers
 
 Data Cleaning and Transformation
 
-#📌 Insights Uncovered
-Highest sales observed in February and December.
-
-Soft Toys and Sweets are top revenue categories.
-
-Magnum Set and Expeditia Gift are best-selling products.
-
-Peak ordering hours around 6 AM and 6 PM.
-
 #🎯 Purpose
 To practice real-world dashboard design using Power BI.
 
@@ -42,7 +33,29 @@ To demonstrate skills in Data Analysis, Data Visualization, and Business Intelli
 
 To showcase ability to derive actionable insights from raw data.
 
-📂 Files Included
-Dashboard Image : https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png
+#Problem Statement: Quickr Sales Analysis
 
-Power BI (.pbix) file : https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb
+Total Revenue: Identify the overall revenue.
+
+Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
+
+Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
+
+Top Products by Revenue: Determine which products are the top revenue generators.
+
+Customer Spending Analysis: Understand how much customers are spending on average.
+
+Sales Performance by Top 5 Products: Track the sales performance of the top 5 products.
+
+Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders.
+
+Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times.
+
+Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
+
+Product Popularity by Occasion: Identify which products are most popular during different occasions.
+
+📂 Files Included
+Dashboard Image : - <a heref="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png">Dashboard Image
+
+Power BI (.pbix) file : - <a heref="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb">Dataset
