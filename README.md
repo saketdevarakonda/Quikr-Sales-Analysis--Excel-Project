@@ -72,6 +72,6 @@ This project showcases a Sales Analysis Dashboard created using Power BI, built 
 • To showcase ability to derive actionable insights from raw data.
 
 ## 📂 Files Included
-Dashboard Image : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/quickr%20slaes%20analysis%20dashboard.png">Dashboard Image
+Dashboard Image : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Dashboard.png">Dashboard Image
 
 Power BI (.pbix) file : - <a href="https://github.com/saketdevarakonda/Quikr-Sales-Analysis--Excel-Project/blob/main/Quickr%20Sales%20Analysis%20Report.xlsb">Dataset
